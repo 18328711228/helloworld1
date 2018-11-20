@@ -1,4 +1,4 @@
-#linux1.1
+## linux1.1
 #1.以容易理解的格式列出/home 目录中所有以”d”开头的文件目录的大小
 Ls -alh /home|grep^d
 
